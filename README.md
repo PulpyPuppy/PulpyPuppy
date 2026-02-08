@@ -2,44 +2,9 @@
 
 <p align=center>
   CS Student | C++ / Rust / Low-Level<br>
-  Building tools, breaking problems, learning systems.
-</p>
-
-<p align=center>
+  Building tools, breaking problems, learning systems.<br><br>
   🛩️ Aviation & Aerospace  •  🔧 Low-Level Programming  •  🤖 Tool Building  •  📷 Photography
 </p>
-
-<br>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛠️ [BricsCAD Plugins](https://github.com/tamiramil/BricsCAD-Plugins) ⭐
-**CAD automation for mechanical design**
-- Automates airfoil profile generation (hours → minutes)
-- Precision transformation tools for engineering workflows
-
-`C#` `CAD` `Automation` `Engineering`
-
-</td>
-<td width="50%">
-
-### ✈️ [Coswalt](https://github.com/Coswalt-E-E/coswalt)
-**Parametric wing design automation**
-- Desktop tool for aircraft rib generation (MVVM architecture)
-- DXF export pipeline for CNC manufacturing
-- Collaborative project: led backend development
-
-`C#` `WPF` `MVVM` `Aerospace` `Team Project`
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -56,16 +21,12 @@
 ![Git](https://img.shields.io/static/v1?label=&message=git&style=for-the-badge&logo=git&logoColor=white&color=black)
 ![Neovim](https://img.shields.io/static/v1?label=&message=neovim&style=for-the-badge&logo=neovim&logoColor=white&color=black)
 
-<br>
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.zohan.tech/api?username=tamiramil&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_title=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=tamiramil&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide=html,css" alt="Top Languages" height="165">
 </p>
-
-<br>
 
 ## 💟 Socials
 
