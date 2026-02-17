@@ -24,8 +24,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.zohan.tech/api?username=tamiramil&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_title=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=tamiramil&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide=html,css" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.zohan.tech/api?username=PulpyPuppy&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_title=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=PulpyPuppy&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide=html,css" alt="Top Languages" height="165">
 </p>
 
 ## 💟 Socials
