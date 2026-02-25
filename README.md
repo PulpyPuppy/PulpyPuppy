@@ -1,9 +1,8 @@
 # <p align=center>🤘 Heyo</p>
 
 <p align=center>
-  CS Student | C++ / Rust / Low-Level<br>
-  Building tools, breaking problems, learning systems.<br><br>
-  🛩️ Aviation & Aerospace  •  🔧 Low-Level Programming  •  🤖 Tool Building  •  📷 Photography
+  CS Student | C/C++ / Low-Level<br>
+  I do some stuff. And do some stuff no to do another stuff. Thanks.
 </p>
 
 ## 🛠️ Tech Stack
@@ -30,6 +29,6 @@
 
 ## 💟 Socials
 
-[![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&style=flat&logo=github&logoColor=white&color=black)](https://github.com/tamiramil/)
+[![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&style=flat&logo=github&logoColor=white&color=black)](https://github.com/PulpyPuppy/)
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&style=flat&logo=telegram&logoColor=white&color=black)](https://t.me/emilbektemir)
 [![Email](https://img.shields.io/static/v1?label=&message=Email&style=flat&logo=gmail&logoColor=white&color=black)](mailto:tamiramil@proton.me)
