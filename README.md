@@ -11,7 +11,6 @@
 ![C#](https://img.shields.io/static/v1?label=&message=c%23&style=for-the-badge&logo=csharp&logoColor=white&color=black)
 ![Bash](https://img.shields.io/static/v1?label=&message=bash&style=for-the-badge&logo=gnu-bash&logoColor=white&color=black)
 ![Python](https://img.shields.io/static/v1?label=&message=python&style=for-the-badge&logo=python&logoColor=white&color=black)
-![Rust](https://img.shields.io/static/v1?label=&message=rust&style=for-the-badge&logo=rust&logoColor=white&color=black)
 
 ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&style=for-the-badge&logo=postgresql&logoColor=white&color=black)
 ![MySQL](https://img.shields.io/static/v1?label=&message=mysql&style=for-the-badge&logo=mysql&logoColor=white&color=black)
