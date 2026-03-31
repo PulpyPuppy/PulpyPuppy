@@ -16,6 +16,7 @@
 ![MySQL](https://img.shields.io/static/v1?label=&message=mysql&style=for-the-badge&logo=mysql&logoColor=white&color=black)
 
 ![Linux](https://img.shields.io/static/v1?label=&message=linux&style=for-the-badge&logo=linux&logoColor=white&color=black)
+![Docker](https://img.shields.io/static/v1?label=&message=docker&style=for-the-badge&logo=docker&logoColor=white&color=black)
 ![Git](https://img.shields.io/static/v1?label=&message=git&style=for-the-badge&logo=git&logoColor=white&color=black)
 ![Neovim](https://img.shields.io/static/v1?label=&message=neovim&style=for-the-badge&logo=neovim&logoColor=white&color=black)
 
